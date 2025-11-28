@@ -1,9 +1,7 @@
 
 hello world
 i am mahi
-=======
-hello 
-world
+=======world
 mahi
 sample
 
