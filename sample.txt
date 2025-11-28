@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hello world
 i am mahi
+=======
+hello 
+world
+mahi
+sample
+
+>>>>>>> editable
